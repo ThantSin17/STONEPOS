@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZayPos</string>
+    <string name="search">Search</string>
+    <string name="add_new_item">Add New Item</string>
+    <string name="no_category">No Category</string>
+    <string-array name="spinner">
+        <item>All Item</item>
+        <item>Non Category</item>
+    </string-array>
+</resources>
